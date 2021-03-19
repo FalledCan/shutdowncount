@@ -1,0 +1,10 @@
+name: Shutdown_Count
+version: 1.0
+main: xyz.sirosan.shutdown_count.Shutdown_Count
+api-version: 1.16
+authors: [ Siro ]
+website: sirosan.xyz
+commands:
+  sdc:
+    usage: /sdc [count] [reason]
+    description: サーバーダウン
